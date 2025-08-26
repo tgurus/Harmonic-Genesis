@@ -1,0 +1,5 @@
+{
+  "name": "Harmonic Genesis",
+  "description": "An interactive suite for the analysis and visualization of mathematical functions through harmonic spiral mapping, based on the 'Harmonic Functions Spiral Analysis' design specification.",
+  "requestFramePermissions": []
+}
